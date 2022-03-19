@@ -1,0 +1,63 @@
+--------------
+Overview
+--------------
+Name: Python Doesn't Byte: An Intro to the Programming Language Used by Netflix, Google, NASA, and More!
+
+Description: Fundamental programming language concepts such as data types and loops will be introduced using the Python programming language. After this brief introduction, students will get right to a project and will design and then code their own unique text-based adventure game! Learn to code and let your creativity run wild in this Python programming language crash course!
+
+--------------
+Core Concepts
+--------------
+
+Data Types
+Variables
+Functions
+Loops
+Modules
+
+--------------
+Time Breakdown
+--------------
+
+Intro: 15 min
+Project: 45 min
+
+What would be the best way to teach students about inputs, outputs, and control
+structures? A text based adventure. Could be used to teach object oriented 
+or functional concepts. For example, a person might define a monster class
+and a player class, then instantiate those classes during the text based game and manipulate them with their own story logic.
+
+```
+class Player:
+	def __init__(self, name):
+		pass
+
+	def attack(self, ):
+		"""Strength based solution."""
+		pass
+
+	def charm(self, ):
+		"""Charisma based solution."""
+		pass
+
+	def solve(self, ):
+		"""Intelligence based solution"""
+		pass
+
+class Monster:
+	def __init__(self, name):
+		pass
+
+	def attack(self,):
+		pass
+
+def main():
+	while not player_defeated and not end_game:
+		# get inputs 
+		pass
+
+if __name__ == "__main__":
+	main()
+```
+
+
