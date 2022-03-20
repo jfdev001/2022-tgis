@@ -13,19 +13,21 @@ Data Types
 Variables
 Functions
 Loops
-Modules
+Modules ... probably won't include but maybe random module for dice rolling?
 
 --------------
 Time Breakdown
 --------------
 
-Intro: 15 min
+Intro: 15-20 min
 Project: 45 min
 
 What would be the best way to teach students about inputs, outputs, and control
 structures? A text based adventure. Could be used to teach object oriented 
 or functional concepts. For example, a person might define a monster class
 and a player class, then instantiate those classes during the text based game and manipulate them with their own story logic.
+
+They won't be able to write these classes this quickly.... need to simplify
 
 ```
 class Player:
