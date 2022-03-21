@@ -60,6 +60,33 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
+# Essentially a count based loop
+# A while loop that uses more complicated conditions
+
+# Initialize loop variables
+rainy = False
+num_times_loop_repeated = 0
+
+# Loop condition
+while(not rainy):
+
+    # Body of loop
+    print("It's not rainy today!!")
+
+    ## Update loop variables
+    # Increment the counter variable by 1
+    num_times_loop_repeated = num_times_loop_repeated + 1
+
+    # Check to see if the counter exceeds a certain condition
+    if (num_times_loop_repeated > 4):
+
+        # Update the other loop variable... remember there are actually
+        # two loop variables for this `while` loop
+        rainy = True
+
+        # Print something fun :)
+        print("It's raining now!!")
 ```
 
 
