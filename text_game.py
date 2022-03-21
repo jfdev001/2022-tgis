@@ -1,6 +1,7 @@
 """Outline of script for text-based adventure game.
 
-This is too long tbh
+NOTE: This is too long and not feasible for the session. Need to simplify 
+concept.
 """
 
 from random import random

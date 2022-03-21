@@ -1,6 +1,8 @@
 --------------
 Overview
 --------------
+This is just some loose organization of my thoughts about what could be done.
+
 Name: Python Doesn't Byte: An Intro to the Programming Language Used by Netflix, Google, NASA, and More!
 
 Description: Fundamental programming language concepts such as data types and loops will be introduced using the Python programming language. After this brief introduction, students will get right to a project and will design and then code their own unique text-based adventure game! Learn to code and let your creativity run wild in this Python programming language crash course!
