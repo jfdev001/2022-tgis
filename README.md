@@ -2,6 +2,8 @@
 
 A crash course in the Python3 programming languages covering fundamentals of the language syntax. The construction of simple program will be attempted after the tutorial.
 
+To download the `tutorial.ipynb` without using `git`, go to [this Google Drive](https://drive.google.com/drive/folders/1hbQeM5CcEE_FAkXHdHDHoWLNk5eNRZJv?usp=sharing).
+
 Description for TGIS Program:
 
 _Fundamental programming language concepts such as data types and loops will be introduced using the Python programming language. After this brief introduction, students will get right to a project and will design and then code their own unique text-based adventure game! Learn to code and let your creativity run wild in this Python programming language crash course!_
