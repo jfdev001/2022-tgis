@@ -14,7 +14,9 @@ Note for teaching: Make sure that output cells have been cleared for any tutoria
 
 In the event that you do not have a working development environment setup on your computer (i.e., a local installation of Python), you can emulate this by using resources that are freely available online. While [Google Colab](https://colab.research.google.com/) and [Kaggle](https://www.kaggle.com/code/scratchpad/notebookbb762fa10d/edit) are both popular, you would have to sign in to gain access to most of their useful features.
 
-An alternative is to use [CoCalc](https://cocalc.com/) and simply follow these steps to use a an interactive ipython notebook `.ipynb`in your browser:
+TODO: add jupyter!!
+
+An alternative is to use [CoCalc](https://cocalc.com/) and simply follow these steps to use a an interactive ipython notebook `.ipynb` in your browser:
 
 1. Navigate to [https://cocalc.com/](https://cocalc.com/).
 2. Click _Try CoCalc Now._
