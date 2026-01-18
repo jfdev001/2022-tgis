@@ -4,6 +4,12 @@ A crash course in the Python3 programming languages covering fundamentals of the
 
 To download the `tutorial.ipynb` without using `git`, go to [this Google Drive](https://drive.google.com/drive/folders/1hbQeM5CcEE_FAkXHdHDHoWLNk5eNRZJv?usp=sharing).
 
+Otherwise, simply download this repository by cloning it via
+
+```
+git clone https://github.com/jfdev001/2022-tgis.git
+```
+
 Description for TGIS Program:
 
 _Fundamental programming language concepts such as data types and loops will be introduced using the Python programming language. After this brief introduction, students will get right to a project and will design and then code their own unique text-based adventure game! Learn to code and let your creativity run wild in this Python programming language crash course!_
@@ -31,3 +37,8 @@ An alternative is to use [CoCalc](https://cocalc.com/) and simply follow these s
 10. In the upper left corner, click the _Files_ tab.
 11. Click on `tutorial.ipynb` in the web app.
 12. Go through the notebook and enjoy!
+
+# Using a Local Jupyter Installation
+
+If you have `jupyter` installed, simply change to the directory containing this `tutorial.ipynb`
+and call `jupyter notebook`. 
